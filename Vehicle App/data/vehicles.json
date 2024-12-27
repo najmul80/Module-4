@@ -1,0 +1,38 @@
+[
+    {
+        "name": "BMW 1",
+        "type": "car",
+        "price": "55777777",
+        "image": "https:\/\/cache.bmwusa.com\/cosy.arox?pov=walkaround&brand=WBBM&vehicle=255F&client=byoc&paint=P0C68&fabric=FLKKG&sa=S01GA%2CS01MB%2CS0248%2CS0302%2CS0319%2CS0322%2CS03DP%2CS03M6%2CS03MF%2CS0416%2CS043P%2CS0453%2CS0459%2CS04FL%2CS04GQ%2CS04HA%2CS04MA%2CS04NB%2CS04NR%2CS04UR%2CS0552%2CS05AU%2CS05DN%2CS06AC%2CS06AK%2CS06C4%2CS06F4%2CS06NX%2CS06U3%2CS071C%2CS0760%2CS0776%2CS07M9&cut=3&width=767&angle=40&quality=85&sharp=99&resp=png&bkgnd=transparent"
+    },
+    {
+        "name": "BMW 2",
+        "type": "car",
+        "price": "555645",
+        "image": "https:\/\/images.pexels.com\/photos\/100650\/pexels-photo-100650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "BMW 3",
+        "type": "car",
+        "price": "55",
+        "image": "https:\/\/cache.bmwusa.com\/cosy.arox?pov=walkaround&brand=WBBM&vehicle=255F&client=byoc&paint=P0C68&fabric=FLKKG&sa=S01GA%2CS01MB%2CS0248%2CS0302%2CS0319%2CS0322%2CS03DP%2CS03M6%2CS03MF%2CS0416%2CS043P%2CS0453%2CS0459%2CS04FL%2CS04GQ%2CS04HA%2CS04MA%2CS04NB%2CS04NR%2CS04UR%2CS0552%2CS05AU%2CS05DN%2CS06AC%2CS06AK%2CS06C4%2CS06F4%2CS06NX%2CS06U3%2CS071C%2CS0760%2CS0776%2CS07M9&cut=3&width=767&angle=40&quality=85&sharp=99&resp=png&bkgnd=transparent"
+    },
+    {
+        "name": "BMW 4",
+        "type": "car",
+        "price": "555645",
+        "image": "https:\/\/images.pexels.com\/photos\/100650\/pexels-photo-100650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "BMW 5",
+        "type": "car",
+        "price": "55",
+        "image": "https:\/\/cache.bmwusa.com\/cosy.arox?pov=walkaround&brand=WBBM&vehicle=255F&client=byoc&paint=P0C68&fabric=FLKKG&sa=S01GA%2CS01MB%2CS0248%2CS0302%2CS0319%2CS0322%2CS03DP%2CS03M6%2CS03MF%2CS0416%2CS043P%2CS0453%2CS0459%2CS04FL%2CS04GQ%2CS04HA%2CS04MA%2CS04NB%2CS04NR%2CS04UR%2CS0552%2CS05AU%2CS05DN%2CS06AC%2CS06AK%2CS06C4%2CS06F4%2CS06NX%2CS06U3%2CS071C%2CS0760%2CS0776%2CS07M9&cut=3&width=767&angle=40&quality=85&sharp=99&resp=png&bkgnd=transparent"
+    },
+    {
+        "name": "BMW 6",
+        "type": "car",
+        "price": "555645",
+        "image": "https:\/\/images.pexels.com\/photos\/100650\/pexels-photo-100650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
